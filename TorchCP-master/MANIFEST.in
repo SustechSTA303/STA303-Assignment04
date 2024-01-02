@@ -1,0 +1,7 @@
+include tests/*.py
+include external_tests/*.py
+include deepcp/VERSION
+include pytest.ini
+include LICENSE
+include LICENSE.GPL
+include deepcp_examples/*.ipynb
